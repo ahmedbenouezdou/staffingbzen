@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build; cd dist; cd staffingbZen;npm i http-server; http-server",
+    "build": "ng build; cd dist; cd staffingbZen",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
